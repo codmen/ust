@@ -1,0 +1,24 @@
+c:\users\user\documents\visual studio 2010\Projects\Casa de schim valutar\Casa de schim valutar\bin\Debug\Casa de schim valutar.exe
+c:\users\user\documents\visual studio 2010\Projects\Casa de schim valutar\Casa de schim valutar\bin\Debug\Casa de schim valutar.pdb
+c:\users\user\documents\visual studio 2010\Projects\Casa de schim valutar\Casa de schim valutar\obj\x86\Debug\Casa_de_schim_valutar.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\Casa de schim valutar\Casa de schim valutar\obj\x86\Debug\Casa_de_schim_valutar.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\Casa de schim valutar\Casa de schim valutar\obj\x86\Debug\Casa de schim valutar.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\Casa de schim valutar\Casa de schim valutar\obj\x86\Debug\Casa de schim valutar.exe
+c:\users\user\documents\visual studio 2010\Projects\Casa de schim valutar\Casa de schim valutar\obj\x86\Debug\Casa de schim valutar.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Casa de schim valutar\Casa de schim valutar\obj\x86\Debug\Casa de schim valutar.csprojResolveAssemblyReference.cache
+C:\Users\webtheory\Desktop\ust\C# Schimb Valutar\Casa de schim valutar\Casa de schim valutar\obj\x86\Debug\Casa de schim valutar.exe
+C:\Users\webtheory\Desktop\ust\C# Schimb Valutar\Casa de schim valutar\Casa de schim valutar\obj\x86\Debug\Casa de schim valutar.pdb
+C:\Users\webtheory\Desktop\ust\C# Schimb Valutar\Casa de schim valutar\Casa de schim valutar\bin\Debug\Casa de schim valutar.exe
+C:\Users\webtheory\Desktop\ust\C# Schimb Valutar\Casa de schim valutar\Casa de schim valutar\bin\Debug\Casa de schim valutar.pdb
+C:\Users\webtheory\Desktop\ust\C# Schimb Valutar\Casa de schim valutar\Casa de schim valutar\obj\x86\Debug\Casa de schim valutar.csprojResolveAssemblyReference.cache
+C:\Users\webtheory\Desktop\ust\C# Schimb Valutar\Casa de schim valutar\Casa de schim valutar\obj\x86\Debug\Casa_de_schim_valutar.Form1.resources
+C:\Users\webtheory\Desktop\ust\C# Schimb Valutar\Casa de schim valutar\Casa de schim valutar\obj\x86\Debug\Casa_de_schim_valutar.Properties.Resources.resources
+C:\Users\webtheory\Desktop\ust\C# Schimb Valutar\Casa de schim valutar\Casa de schim valutar\obj\x86\Debug\Casa de schim valutar.csproj.GenerateResource.Cache
+C:\Users\webtheory\Desktop\ust\Casa de schim valutar\Casa de schim valutar\obj\x86\Debug\Casa de schim valutar.exe
+C:\Users\webtheory\Desktop\ust\Casa de schim valutar\Casa de schim valutar\obj\x86\Debug\Casa de schim valutar.pdb
+C:\Users\webtheory\Desktop\ust\Casa de schim valutar\Casa de schim valutar\bin\Debug\Casa de schim valutar.exe
+C:\Users\webtheory\Desktop\ust\Casa de schim valutar\Casa de schim valutar\bin\Debug\Casa de schim valutar.pdb
+C:\Users\webtheory\Desktop\ust\Casa de schim valutar\Casa de schim valutar\obj\x86\Debug\Casa de schim valutar.csprojResolveAssemblyReference.cache
+C:\Users\webtheory\Desktop\ust\Casa de schim valutar\Casa de schim valutar\obj\x86\Debug\Casa_de_schim_valutar.Form1.resources
+C:\Users\webtheory\Desktop\ust\Casa de schim valutar\Casa de schim valutar\obj\x86\Debug\Casa_de_schim_valutar.Properties.Resources.resources
+C:\Users\webtheory\Desktop\ust\Casa de schim valutar\Casa de schim valutar\obj\x86\Debug\Casa de schim valutar.csproj.GenerateResource.Cache
